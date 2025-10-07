@@ -25,7 +25,7 @@ export function Navbar({ tabs, tab, setTab }: NavbarProps) {
         <ModeToggle />
         <a
           className={buttonVariants({ variant: "outline", size: "icon" })}
-          href="https://github.com/OgabekYuldoshev/react-calendar-tailwind"
+          href="https://github.com/shuhrat004/Calendar"
           target="_blank"
         >
           <Github />
